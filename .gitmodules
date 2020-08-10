@@ -1,0 +1,3 @@
+[submodule "external/occamypy"]
+	path = external/occamypy
+	url = https://github.com/fpicetti/occamypy.git
